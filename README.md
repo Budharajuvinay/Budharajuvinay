@@ -1,167 +1,140 @@
 
-<!-- =============== HERO SECTION =============== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050816,50:111827,100:312e81&text=VINAY%20BUDHARAJU&fontColor=67E8F9&fontSize=42&fontAlignY=45&desc=JAVA%20FULL%20STACK%20DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=13&descAlignY=65&animation=fadeIn" width="100%" />
+# Hi, I'm Vinay 👋
 
-<br/>
+### Java Full Stack Developer | React.js | Software Engineer
 
-<a href="https://github.com/Budharajuvinay">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Applications;Java+%7C+React+%7C+JavaScript+%7C+SQL;Always+Learning.+Always+Building." alt="Typing introduction" />
-</a>
+Building clean, useful, and user-friendly web applications.
 
-<br/><br/>
-
-<a href="https://github.com/Budharajuvinay?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-111827?style=for-the-badge&logo=github&logoColor=67E8F9&labelColor=050816" />
-</a>
-<a href="mailto:budharajuvinay@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S_CONNECT-111827?style=for-the-badge&logo=gmail&logoColor=FB7185&labelColor=050816" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Budharajuvinay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:budharajuvinay@gmail.com)
 
 </div>
 
 ---
 
-## `01` — WHO AM I?
+## 👨‍💻 About Me
 
-```java
-public class Vinay {
+<table>
+<tr>
+<td width="60%">
 
-    String role = "Aspiring Full Stack Developer";
-    String education = "B.E. Computer Science & Engineering";
-    String location = "India";
+I'm a Computer Science and Engineering student passionate about building web applications and solving real-world problems through technology.
 
-    String[] languages = {
-        "Java", "JavaScript", "SQL"
-    };
+- 🎓 B.E. Computer Science & Engineering
+- 💻 Interested in Java Full Stack Development
+- ⚛️ Learning React.js and modern frontend development
+- 🚀 Building projects to improve my development skills
+- 🤝 Open to internships, collaborations, and opportunities
 
-    String[] frontend = {
-        "HTML", "CSS", "React.js"
-    };
+</td>
+<td width="40%">
 
-    String[] tools = {
-        "Git", "GitHub"
-    };
+### Current Focus
 
-    String currentFocus =
-        "Java Full Stack Development";
+**Frontend**
+- HTML, CSS, JavaScript
+- React.js
 
-    String mindset =
-        "Learn continuously. Build consistently.";
-}
-```
+**Backend & Database**
+- Java
+- SQL
 
-I'm a Computer Science and Engineering student passionate about
-building practical software solutions and user-friendly web applications.
+**Developer Tools**
+- Git and GitHub
 
-I enjoy solving programming problems, exploring new technologies,
-and transforming ideas into functional applications. My goal is to
-grow as a developer, strengthen my engineering fundamentals, and
-contribute to meaningful real-world projects.
+</td>
+</tr>
+</table>
 
 ---
 
-## `02` — TECH ARSENAL
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" />
-
-### FRONTEND DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
-
-### DATABASE & DEVELOPER TOOLS
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
+| Frontend | Backend | Database & Tools |
+|---|---|---|
+| HTML5 | Java | SQL |
+| CSS3 | JavaScript | Git |
+| React.js | REST APIs | GitHub |
 
 </div>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github&theme=dark" alt="Technology skills"/>
+</p>
+
 ---
 
-## `03` — FEATURED PROJECT
+## 🚀 Featured Project
 
-### 🔍 Safety Scout
+### Safety Scout
 **Video-Based Incident Detection Using Deep Learning**
 
-A project focused on detecting incidents from video footage using
-computer vision and deep learning techniques.
+A project focused on detecting incidents from video using computer vision and deep learning.
 
-- **Core technologies:** CNN, YOLO and APIs
-- **Focus:** Video analysis and incident detection
-- **Objective:** Explore real-time processing for identifying
-  potentially unsafe events.
-
-> Project details and technologies should reflect the implementation
-> in your actual project repository.
+- 🧠 Technologies: CNN and YOLO
+- 🎥 Video-based incident analysis
+- 🔗 API integration
 
 ---
 
-## `04` — GITHUB ACTIVITY
+## 💼 Experience
+
+### Frontend Developer Intern
+**Makos Infotech Private Limited**
+- Worked with HTML, CSS, and JavaScript.
+- Gained practical experience in frontend development.
+
+### Full Stack Web Development Intern
+**CODETECH IT SOLUTIONS**
+- Participated in an eight-week web development internship.
+- Practiced full stack development concepts.
+
+---
+
+## 🏆 Achievements
+
+- 🥉 Secured 3rd place in an AICTE IDE Bootcamp pitching session.
+- 🎓 Completed Core Java certification through L&T EduTech.
+- 🚀 Participated in innovation and entrepreneurship activities.
+- 🤝 Served as an Institute Innovation Council Student Ambassador.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Budharajuvinay&show_icons=true&hide_border=true&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&ring_color=67E8F9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Budharajuvinay&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Budharajuvinay&layout=compact&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=CBD5E1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Budharajuvinay&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
 
-<br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=Budharajuvinay&hide_border=true&background=050816&ring=67E8F9&fire=FB7185&currStreakLabel=67E8F9&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
+<img src="https://streak-stats.demolab.com?user=Budharajuvinay&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## `05` — EXPERIENCE & RECOGNITION
-
-**Web Development Intern — CODETECH IT SOLUTIONS**
-- Gained practical exposure to web development using HTML, CSS and JavaScript.
-- Developed understanding of frontend implementation and web application fundamentals.
-
-**Frontend Development Intern — Makos Infotech Private Limited**
-- Gained hands-on experience with website structure, styling and interactive interfaces.
-- Strengthened frontend development and debugging skills.
-
-**Achievements & Certifications**
-- 🥉 Secured 3rd place in an AICTE IDE Bootcamp pitching session.
-- 🎓 Completed Core Java certification with First Class from L&T EduTech.
-- 📜 Completed web development training covering HTML, CSS and JavaScript.
-- 🚀 Institute Innovation Council Student Ambassador.
-
----
-
-## `06` — CURRENT MISSION
-
-- Strengthening Java and object-oriented programming fundamentals.
-- Building frontend applications with React.js.
-- Improving SQL and database management skills.
-- Practicing data structures, algorithms and coding challenges.
-- Developing projects that demonstrate practical problem-solving.
-
----
-
-## `07` — LET'S CONNECT
+## 📬 Connect With Me
 
 <div align="center">
 
-<a href="mailto:budharajuvinay@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=FB7185" />
-</a>
-<a href="https://github.com/Budharajuvinay">
-  <img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=67E8F9" />
-</a>
+**Let's connect and build something meaningful!**
 
-<br/><br/>
+📧 [budharajuvinay@gmail.com](mailto:budharajuvinay@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:67E8F9,50:A78BFA,100:FB7185" width="80%" />
+💻 [GitHub Profile](https://github.com/Budharajuvinay)
 
-**"Consistency turns potential into progress."**
+🌐 [LinkedIn Profile](https://www.linkedin.com/)
 
-<sub>Designed with curiosity, built with code.</sub>
+</div>
+
+<div align="center">
+
+*Thanks for visiting my profile!*
 
 </div>
